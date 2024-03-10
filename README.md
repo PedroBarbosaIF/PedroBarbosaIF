@@ -3,4 +3,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroBarbosaIF/PedroBarbosaIF/output/github-contribution-grid-snake.svg">
 </picture>
 
-*generated with [Platane/snk](https://github.com/Platane/snk)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
