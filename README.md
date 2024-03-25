@@ -5,4 +5,3 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vrwepryk5lssqtwe2e5pn7ct7a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
