@@ -27,5 +27,6 @@
 
 _gerado com [Platane/snk](https://github.com/Platane/snk)_
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobarbosaif&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobarbosaif" /> </p>
+<p align="center"><img width="21%" align="center" src="https://profile-counter.glitch.me/Jot4g3/count.svg" /></p> 
+
 
