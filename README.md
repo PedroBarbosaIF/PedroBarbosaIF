@@ -27,6 +27,4 @@
 
 _gerado com [Platane/snk](https://github.com/Platane/snk)_
 
-<p align="center"><img width="21%" align="center" src="https://profile-counter.glitch.me/PedroBarbosaIF/count.svg" /></p> 
-
 
