@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo: **JavaScript e Java**
 
-- 💬 Me pergunte sobre: **nada ainda, estou aprendendo! :)**
+- 💬 Me pergunte sobre: **nada, ainda estou aprendendo! :)**
 
 - 📫 Contato: **pedro.barbosa40@aluno.ifce.edu.br**
 
