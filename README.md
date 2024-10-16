@@ -8,7 +8,7 @@
 
 - 📫 Contato: **pedro.barbosa40@aluno.ifce.edu.br**
 
-- ⚡ Fato pessoal: **Gosto de nü metal 🤘 e física**
+- ⚡ Fato pessoal: **Gosto de nü metal 🤘 e musculação**
 
 
 
