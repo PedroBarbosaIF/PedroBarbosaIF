@@ -34,6 +34,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroBarbosaIF/PedroBarbosaIF/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroBarbosaIF/PedroBarbosaIF/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroBarbosaIF/PedroBarbosaIF/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroBarbosaIF/PedroBarbosaIF/output/pacman-contribution-graph.svg">
+</picture>
+
 _gerado com [Platane/snk](https://github.com/Platane/snk)_
 
 
