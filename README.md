@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Informática no IFCE</h3>
 
 
-- 🌱 Atualmente estou aprendendo: **JavaScript e Java**
+- 🌱 Atualmente estou aprendendo: **Dart**
 
 - 💬 Me pergunte sobre: **nada, ainda estou aprendendo! :)**
 
@@ -13,7 +13,16 @@
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart logo" width="40" height="40"/> </a> 
+  
+  <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="javascript" width="40" height="40"/> </a>
+  
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="dart logo" width="40" height="40"/> </a> 
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobarbosaif&theme=dark" alt="pedrobarbosaif" /></p>
 
