@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Informática no IFCE</h3>
 
 
-- 🌱 Atualmente estou aprendendo: **Dart**
+- 🌱 Atualmente estou aprendendo: **Dart e React**
 
 - 💬 Me pergunte sobre: **nada, ainda estou aprendendo! :)**
 
